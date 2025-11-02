@@ -113,6 +113,10 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 This tool is for educational and research purposes only. It should not be considered financial advice. Always consult with a qualified financial advisor before making investment decisions. Past performance does not guarantee future results.
 
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
 ## Contact
 
 For questions or suggestions, please open an issue on GitHub or email me at anjalidesai0111@gmail.com.
