@@ -93,9 +93,10 @@ The tool generates:
 ```
 stock-analysis-arima-forecasting/
 │
-├── stock_analysis.py              # Main analysis script
-├── requirements.txt                # Python dependencies
-├── README.md                       # Documentation
+├── stock_analysis.py                 # Main analysis script
+├── requirements.txt                  # Python dependencies
+├── README.md                         # Documentation
+├── LICENSE                           # MIT License
 └── top_50_stocks_data_formatted.csv  # Input data (user-provided or given in repository)
 ```
 
